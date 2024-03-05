@@ -1,0 +1,9 @@
+divler satırın tamamını kullanmışız gibi davranır
+background-imagine:url() arka plan fotoğrafı
+background-size: cover tüm ekranı kaplar
+background-pozition: center ise resmin div içindeki pozisyonunu belirler
+border: 7px solid (düz) red;
+border-radius: 15px yanlardaki kıvrımları kırp
+width: 50% tarayıcının yüzde 50 sini kullan dinamik bir genişlik px sabit genişlik
+divler arası boşuk için margin divin içindeki boşluk için padding
+
