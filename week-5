@@ -23,6 +23,12 @@ hover üzerine geldiğinde demek tr:hover üzerine gelince
 z-index=-1 bir katman aşşağıya alır position: ablsoute da olmalı 
 top: 0px yukarıdan 0 px yer bırak yukarıya yapıştır demek
 overfolw: auto taşma durumlarını engeller sabit ükseklikteki divler için geçerli
+menu yaparken ul içindeki li lere a href özelliği ekle bir yere gidebilmesi içiin
+list-style-type: none başındaki noktaları kaldıırır
+color pickerden karar veremezsen renk seç
+transsition üzerine geldiğinde renk değiştirme süresini yavaşlatır
+dikey menüyü yatay yapmak için blocku inline block yap
+
 
 
 
