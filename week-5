@@ -6,4 +6,26 @@ border: 7px solid (düz) red;
 border-radius: 15px yanlardaki kıvrımları kırp
 width: 50% tarayıcının yüzde 50 sini kullan dinamik bir genişlik px sabit genişlik
 divler arası boşuk için margin divin içindeki boşluk için padding
+style:display=inline yaparak block elementi inlineye çevirebilirsin
+inline etiketlerin boyutları değiştirilemez
+inline-block inline gibidir block gibi davranır 
+font-weihgt: bold kalınlaştırır
+letter-spacing harf arası boşluk, text-trabnsfornig uppercase yapar word-spaccing kelimeler arasını açar
+class belirlerken stylede yukarıyı virgüllle ayır
+div>p divin altındaki paragraflar
+div+p divden sornaki ilk paragrafı seçer 
+text-decoration:none altındaki çizgiyi kaldırır
+icon eklemek için font awsomenin cdnj cssini dahil et sonra font awsomedeki beleş iconları kullanabilirsin
+css de list-style-type şeklinde listenin sıralanış şekli değişebilir
+border-colles:coslles yapınca tablodaki ayrı kısımları tek çizgi yapar
+nthh-child hepsini seçer even ise çift olanları seçer odd ise tekleri boyar
+hover üzerine geldiğinde demek tr:hover üzerine gelince
+z-index=-1 bir katman aşşağıya alır position: ablsoute da olmalı 
+top: 0px yukarıdan 0 px yer bırak yukarıya yapıştır demek
+overfolw: auto taşma durumlarını engeller sabit ükseklikteki divler için geçerli
+
+
+
+
+
 
