@@ -28,7 +28,14 @@ list-style-type: none başındaki noktaları kaldıırır
 color pickerden karar veremezsen renk seç
 transsition üzerine geldiğinde renk değiştirme süresini yavaşlatır
 dikey menüyü yatay yapmak için blocku inline block yap
+input[type="text"] {
+    color: black;
+}
 
+.text:hover {
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+} chatboxlar için
 
 
 
