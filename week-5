@@ -41,6 +41,11 @@ text-indent: Bu, paragrafın ilk satırını girintili hale getirir. Diğer sat�
 margin-left: Bu, paragrafın tümünü sola kaydırır.
 position ve left: Bu, paragrafın konumunu kesin olarak kontrol etmenizi sağlar.
 
+ display: flex;
+    justify-content: center;
+    align-items: center; divi ortalamaya yarıyor
+
+
 
 
 
