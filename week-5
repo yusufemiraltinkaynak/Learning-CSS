@@ -46,7 +46,9 @@ position ve left: Bu, paragrafın konumunu kesin olarak kontrol etmenizi sağlar
     align-items: center; divi ortalamaya yarıyor
 
 
+cursor: pointer;:
 
+Bu kod, bir elementin üzerine fare geldiğinde imlecin bir el işaretine dönüşmesini sağlar. Bu, elementin tıklanabilir olduğunu kullanıcıya göstermek için kullanılır.
 
 
 
