@@ -37,6 +37,10 @@ input[type="text"] {
     cursor: pointer;
 } chatboxlar için
 
+text-indent: Bu, paragrafın ilk satırını girintili hale getirir. Diğer satırlar normal şekilde hizalanır.
+margin-left: Bu, paragrafın tümünü sola kaydırır.
+position ve left: Bu, paragrafın konumunu kesin olarak kontrol etmenizi sağlar.
+
 
 
 
