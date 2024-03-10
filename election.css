@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-color: whitesmoke;
+}
+
+
+.top { 
+        position: fixed;
+        top: 0;
+        right: 0; /* Sağa tam oturtma */
+        left: 0; /* Sola tam oturtma */
+        background-color: #cfd8dc;
+        font-family: 'Roboto', sans-serif; 
+        color: #333333; 
+        word-spacing: 3px;
+        height: 80px;
+        line-height: 40px;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1); /* Gölge efekti ekle */
+    }
+    
+    
+
+
+.main {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 40px;
+    margin-left: 40px;
+    font-size: large;
+    margin-top: 50px;
+    word-spacing: 3px;
+
+
+}
+
+.resim {
+    height: 50px;
+    width: 50px;
+    
+}
+
+
+
+.resim1 {
+    height: 60px;
+    width: 60px;
+    text-align: left;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.text {
+    width: 300px;
+    height: 30px;
+    border: 2px solid rgb(228, 239, 239);
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #090606;
+    font-size: large;
+    text-align: center;
+    
+}
+
+input[type="text"] {
+    color: black;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.text:hover {
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    background-color: #f5f5f5;
+}
+
+input[type="date"] {
+    background-color: aliceblue;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+
+&:hover {
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    background-color: #f5f5f5;
+}
+
+&:focus {
+    outline: none;
+    border-color: rgb(225, 233, 238);
+  }
+
+}
+
+.where {
+    background-color: aliceblue;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+
+
+    &:hover {
+        box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+        cursor: pointer;
+        background-color: #f5f5f5;
+    }
+
+
+}
+
+.last {
+    text-align: center;
+    margin-top: 40px;
+    h1 {
+        margin-top: -100px;
+        font-family: Arial, sans-serif;
+        font-size: 30px;
+        font-weight: 800;
+        color: #b95a5a;
+        text-align: center;
+        margin: 20px 0;
+
+      }
+    
+
+    .resim2 {
+        width: 200px;
+        height:200px;
+        margin-top: 50px;
+    }
+
+    p {
+        text-align: left;
+        font-size: 19px;
+        color: #090606;
+        margin-left: 30px;
+        position: absolute;
+        display: inline-block;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+    
+}
+
+.submit {
+    text-align: center;
+    background: #2f2f2f;
+    width: 350px;
+    height: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-color: #ffffff;
+    border-radius: 40px;
+    box-shadow: 0 0 12px -2px rgba(0,0,0,0.5);
+    position: absolute;
+    font-size: 22px;
+    color: #ffffff;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    font-weight: 550;
+
+    &:hover {
+        box-shadow: 0 0 10px 5px rgba(0, 0, 0, 7);
+        cursor: pointer;
+        background-color:#2b2929;
+    }
+
+
+        
+
+    
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.radio-btn {
+    margin-top: 20px;
+    width: 20px;
+    height: 20px; 
+    cursor: pointer;
+    
+}
